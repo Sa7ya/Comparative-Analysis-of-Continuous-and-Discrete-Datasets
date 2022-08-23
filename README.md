@@ -2,14 +2,13 @@
 
 Continuous Dataset Analysis
 
-Predicted the Global Sales(Units) of Video game sales using Python, Pandas, NumPy and Scikit-learn packages.
-Analyzed the performance of 8 Machine learning Regression models and found the best combination of preprocessing techniques, machine learning model and hyper-parameters to achieve highest accuracy. 
+Predicted the Global Sales(Units) of Video game sales using Python, Pandas, NumPy and Scikit-learn packages. Analyzed the performance of 8 Machine learning Regression models and found the best combination of preprocessing techniques, machine learning model and hyper-parameters to achieve highest accuracy. 
 
 Please refer this project report for detailed insights: https://github.com/Sa7ya/Comparative-Analysis-of-Continuous-and-Discrete-Datasets/blob/main/VGS_Project_Report.docx.pdf
 
 Discrete Dataset Analysis
 
-Built a classification tool which predicted whether the pulsar candidates are a Pulsar Star using various preprocessing techniques and machine learning models, achieving 97% prediction accuracy. Analyzed the performance of 8 Machine learning Classification models and found the best combination of preprocessing techniques, machine learning model and hyper-parameters to achieve highest accuracy. 
+Built a classification tool which predicted whether the pulsar candidates are a Pulsar Star using various preprocessing techniques and machine learning models, achieving 97% prediction accuracy. Analyzed the performance of 5 Machine learning Classification models and found the best combination of preprocessing techniques, machine learning model and hyper-parameters to achieve highest accuracy. 
 
 Please refer this project report for detailed insights: https://github.com/Sa7ya/Comparative-Analysis-of-Continuous-and-Discrete-Datasets/blob/main/PSD_Project_Report.pdf
 
